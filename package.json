@@ -15,9 +15,9 @@
   "author": "DWANGO Co., Ltd.",
   "license": "MIT",
   "devDependencies": {
-    "@akashic/akashic-cli-export-html": "~0.2.9",
-    "@akashic/akashic-cli-export-zip": "~0.3.5",
-    "@akashic/akashic-cli-scan": "~0.2.6",
+    "@akashic/akashic-cli-export-html": "~1.4.3",
+    "@akashic/akashic-cli-export-zip": "~0.9.1",
+    "@akashic/akashic-cli-scan": "~1.0.7",
     "@akashic/akashic-engine": "~2.4.11",
     "@akashic/akashic-sandbox": "~0.13.55",
     "jest": "~24.5.0",
