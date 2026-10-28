@@ -32,6 +32,9 @@
     "type": "git",
     "url": "https://github.com/akashic-contents/with-game-master-sample.git"
   },
+  "allowScripts": {
+    "core-js@2.6.12": false
+  },
   "devEngines": {
     "packageManager": {
       "name": "npm",
